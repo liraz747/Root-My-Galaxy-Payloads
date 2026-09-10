@@ -339,7 +339,7 @@
       "kernelVersions": ["5.15.148"],
       "exploit": {
         "url": "https://raw.githubusercontent.com/liraz747/Root-My-Galaxy-Payloads/main/artifacts/dm2q-S916U1UES6CYB3/cve-2026-43499-app.so",
-        "size": 132472
+        "size": 132776
       },
       "kernelsu": {
         "url": "https://raw.githubusercontent.com/liraz747/Root-My-Galaxy-Payloads/main/kernelsu/ksud-dm2q-S916U1UES6CYB3-kdp",
